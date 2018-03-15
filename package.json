@@ -1,0 +1,16 @@
+{
+  "name": "alti",
+  "version": "1.0.0",
+  "description": "login page",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Saravanan Jeganathan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "yarn": "^1.5.1"
+  }
+}
